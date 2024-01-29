@@ -13,5 +13,5 @@ fragile.
 BORING STUFF
 ————————————————————————————————————————
 License is the CC0 (public domain, effectively)
-Author is Jaidyn Ann <jadedctrl@teknik.io>
-Sauce is at https://git.eunichx.us/bf-aheago.git
+Author is Jaidyn Ann <jadedctrl@posteo.at>
+Sauce is at https://hak.xwx.moe/jadedctrl/bf-aheago
